@@ -1,6 +1,11 @@
 .title-c {
     font-size: 1.5rem;
 }
+
 button:focus {
   outline: 0px;
+}
+
+footer {
+  margin-top: 8rem;
 }
